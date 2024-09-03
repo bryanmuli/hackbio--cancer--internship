@@ -35,8 +35,6 @@ style='mso-element:field-end'></span></span><![endif]-->.
 
  
 
-**METHODS**
-
 IC50 is quantified _in-vitro,_ biological samples outside their normal biological context. The EC50 is comparable to the IC50 in that it is obtained _in- vivo_, biological samples in their normal biological context. Most approaches to determine IC50 of a chemotherapeutic drug are based on assays that utilise whole cell systems<!--[if supportFields]><span
 style='font-size:12.0pt;line-height:107%;font-family:"Times New Roman",serif'><span
 style='mso-element:field-begin'></span> ADDIN ZOTERO_ITEM CSL_CITATION
